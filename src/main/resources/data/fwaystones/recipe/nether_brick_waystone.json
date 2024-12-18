@@ -14,10 +14,10 @@
       "item": "fwaystones:abyss_watcher"
     },
     "E": {
-      "item": "minecraft:emerald"
+      "item": "betternether:nether_ruby"
     },
     "O": {
-      "item": "minecraft:obsidian"
+      "item": "minecraft:diamond_block"
     }
   },
   "result": {
